@@ -1,7 +1,6 @@
 ### Skills and Experience Comparison
 
 **Job Title**: Senior Director of Engineering at FirstParty  
-**Candidate**: Q. Wade Billings
 
 ---
 
