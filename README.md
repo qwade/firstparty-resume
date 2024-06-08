@@ -4,7 +4,7 @@
 
 ---
 
-| **Criteria**                          | **FirstParty Job Description**                                                                                                    | **Q. Wade Billings' Resume**                                                                                                                |
+| **Criteria**                          | **FirstParty Job Description**                                                                                                    | **Q. Wade Billings' Skills**                                                                                                                |
 |---------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
 | **Team Leadership and Management**    | Prioritize hiring, motivate, communicate, develop metrics, interface with stakeholders, standardize processes, promote improvement | Led global SRE, DevSecOps teams; CTO at Honorlock; Interim CISO, CIO, Director of DevSecOps at BetterUp; Agile Product Owner at JM Family   |
 | **Technical Leadership**              | Collaborate across teams, propose initiatives, identify opportunities, plan long-term, solve complex problems, support architecture, on-call rotations | Extensive leadership in technical roles, e.g., CTO at Honorlock, SVP of Engineering at Ambi; expertise in global cloud SaaS platforms        |
